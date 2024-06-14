@@ -1,0 +1,42 @@
+.luxury{
+        font-family: "Amiri", serif;
+        font-weight: bold;
+        font-style: normal;  
+        font-size: 80px;
+        line-height: 70px;
+}
+.luxury1{
+    font-family: "Amiri", serif;
+    font-weight: bold;
+    font-style: normal;  
+    font-size: 25px;
+    padding: 0%;
+    color: rgb(22, 5, 99);
+}
+.hotels{
+    font-family: "Amiri", serif;
+    font-style: normal; 
+    font-size: 50px;
+    letter-spacing: 4px;
+    font-weight: lighter;
+    line-height: 50px;
+    margin-top: -3px;
+}
+.lux2{
+    font-family: "Amiri", serif;
+    font-style: normal; 
+    font-size: large;
+}
+.hotel1{
+    margin-top: -15%;
+    letter-spacing: 3px;
+    font-family: "Amiri", serif;
+    font-style: normal; 
+    
+}
+footer{
+    border-style: unset;
+}
+.roomtypes{
+    color: rgb(14, 2, 66);
+}
